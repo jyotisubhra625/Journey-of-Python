@@ -1,2 +1,2 @@
-# Journey-to-Python
-From zero to job ready in Python
+# Journey-Python
+My Python Journey from zero to becoming Job-Ready
